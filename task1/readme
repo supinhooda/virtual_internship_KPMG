@@ -1,21 +1,53 @@
-Task 1
 Data Quality Assessment
+Assessment of data quality and completeness in preparation for analysis
+Background Information
+Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached a Partner in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team.
 
-Background Information:
+Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy.
 
-Sprocket Central Pty Ltd is a medium-sized company specializing in bikes and cycling accessories. They've approached KPMG's Lighthouse & Innovation Team to tap into their expertise in Analytics, Information & Modelling. Sprocket Central aims to enhance its business through effective analysis of their customer and transactions data. However, they're uncertain about how to best analyze their large customer dataset to optimize their marketing strategy.
+The client provided KPMG with 3 datasets:
 
-Task:
+Customer Demographic
 
-Your role is to assist the KPMG team in assessing the quality of Sprocket Central's datasets and providing recommendations to enhance data quality. You've received three datasets: Customer Demographic, Customer Addresses, and Transaction data from the past three months. Your task involves:
+Customer Addresses
 
-1. Reviewing the data quality of these datasets to prepare them for phase two analysis.
-2. Identifying any assumptions or issues that need clarification from the client.
-3. Offering recommendations to address current data quality concerns, referring to a Data Quality Framework Table and considering criteria and dimensions specified.
-4. Addressing missing values, inconsistencies, and formatting issues in the datasets.
-5. Contacting the client with an email detailing the data quality issues and your strategies to mitigate them.
+Transactions data in the past 3 months
 
+Task
+To perform preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data using the information provided in the datasets.
 
+To draft an email to the client identifying the data quality issues and strategies to mitigate these issues by quoting referencing to the ‘Data Quality Framework Table’.
 
+Data Quality Framework Table
+Standard Data Quality Dimensions:
+
+Accuracy : How well does a piece of information reflect reality?
+
+Completeness : Does it fulfill your expectations of what’s comprehensive?
+
+Uniqueness : Is this the only instance in which this information appears in the database?
+
+Validity : Is information in a specific format, does it follow business rules, or is it in an unusable format?
+
+Consistency : Does information stored in one place match relevant data stored elsewhere?
+
+Timeliness : Is your information available when you need it?
+
+Tools
+List of tools( to view and analyse the data) that can be used to perform the task:
+
+Excel
+
+Google Sheets
+
+Tableau
+
+Power BI
+
+Python
+
+R Programming
+
+MatLab
 
 
